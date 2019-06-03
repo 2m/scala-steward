@@ -1,5 +1,6 @@
 - 2m/authors
 - 2m/ciris-hocon
+- 2m/kabrioletas
 - 2m/polyfact
 - 2m/sonatype-stats
 - 7mind/izumi
